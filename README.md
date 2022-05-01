@@ -18,6 +18,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JoshAlb21/JoshAlb21/master/assets/computer_taking_over.gif" />
 
 ## **Interests**
+- Machine Learning
 - Data Science 📊
 - Engineering ⚙️
 
@@ -44,7 +45,7 @@
 ## **Projects** 💡 
 - Bachelor Thesis (grade 1.0): "Development of a vehicle diagnosis system with machine learning algorithms"
   with Python implementation and CRISP-DM
-- Intership @Mahle
+- Intership @Mahle:
   6 months of internship with Python in everyday work (Read out camera images and receive pulse data of the test person after data processing, implemented with Python)
     
 ## **Connect with me**
