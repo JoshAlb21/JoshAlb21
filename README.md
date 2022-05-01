@@ -42,11 +42,10 @@
 
   
 ## **Projects** 💡 
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
+- Bachelor Thesis (grade 1.0): "Development of a vehicle diagnosis system with machine learning algorithms"
+  with Python implementation and CRISP-DM
+- Intership @Mahle
+  6 months of internship with Python in everyday work (Read out camera images and receive pulse data of the test person after data processing, implemented with Python)
     
 ## **Connect with me**
   
