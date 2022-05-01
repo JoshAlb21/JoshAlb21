@@ -15,8 +15,7 @@
 </p>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src=""https://raw.githubusercontent.com/JoshAlb21/JoshAlb21/master/assets/computer_taking_over.gif"" />
-
+<img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JoshAlb21/JoshAlb21/master/assets/computer_taking_over.gif" />
 
 ## **Interests**
 - Data Science 📊
