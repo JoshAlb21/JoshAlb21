@@ -45,7 +45,7 @@
 ## **Projects** 💡 
 - Bachelor Thesis (grade 1.0): "Development of a vehicle diagnosis system with machine learning algorithms"
   with Python implementation and CRISP-DM
-- Intership @Mahle:
+- Internship @Mahle:
   6 months of internship with Python in everyday work (Read out camera images and receive pulse data of the test person after data processing, implemented with Python)
     
 ## **Connect with me**
