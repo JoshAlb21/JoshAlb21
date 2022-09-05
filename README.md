@@ -7,7 +7,7 @@
 
 <p>
   
-- Computer Science & Engineering - 1st semester @ Karlsruhe Institut of Technology KIT. 🎓
+- Mechanical Engineering - 2st semester @ Karlsruhe Institut of Technology KIT. 🎓
 - Currently working with as a Data Driven Engineering HiWi. 🏥
 - Looking for opportunities and collaborations in the field of data driven engineering. ✅ 
 - Programming + Engineering = ❤️
