@@ -7,9 +7,9 @@
 
 <p>
   
-- Mechanical Engineering - 2st semester @ Karlsruhe Institut of Technology KIT. 🎓
-- Currently working with as a Data Driven Engineering HiWi. 🏥
-- Looking for opportunities and collaborations in the field of data driven engineering. ✅ 
+- Mechanical Engineering - last semester @ Karlsruhe Institut of Technology KIT. 🎓
+- Currently working on my master thesis: Investigating Visual Foundation Models to support dataset creation for high throughput image processing.
+- Looking for opportunities and collaborations in the field of data analysis. ✅ 
 - Programming + Engineering = ❤️
 - Python, Machine Learning 💪
 </p>
@@ -40,6 +40,7 @@
 <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+<a href="https://pytorch.org" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/> </a>
 
   
 ## **Projects** 💡 
@@ -47,6 +48,9 @@
   with Python implementation and CRISP-DM
 - Internship @Mahle:
   6 months of internship with Python in everyday work (Read out camera images and receive pulse data of the test person after data processing, implemented with Python)
+- Data Driven Engineering HiWi @ Albert Ludwig University Freiburg:
+  Processing of patient records. Analysis of recovery trajectories in multidimensional space in combination with Therapeutic Drug Monitoring (TDM).
+- [WIP] Own project: autonomous control of a 2D car game using Deep Reinforcement Learning (with DQN)
     
 ## **Connect with me**
   
