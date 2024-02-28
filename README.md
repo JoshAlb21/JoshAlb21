@@ -7,8 +7,8 @@
 
 <p>
   
-- Mechanical Engineering - last semester @ Karlsruhe Institut of Technology KIT. 🎓
-- Currently working on my master thesis: Investigating Visual Foundation Models to support dataset creation for high throughput image processing.
+- Mechanical Engineering - last semester @ Karlsruhe Institut of Technology KIT. 🎓 (grade 1.3)
+- Masterthesis: (grade 1.0) "Automated Taxonomic Classification and Temporal Change Detection Using Vision Foundation Models"
 - Looking for opportunities and collaborations in the field of data analysis. ✅ 
 - Programming + Engineering = ❤️
 - Python, Machine Learning 💪
