@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Josh<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">AI Enthusiast, Mechanical Engineering B. Sc. currently in master</h3>
+<h3 align="center">AI Enthusiast, Mechanical Engineering M. Sc.</h3>
 
 
 
