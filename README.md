@@ -7,7 +7,7 @@
 
 <p>
   
-- Mechanical Engineering - last semester @ Karlsruhe Institut of Technology KIT. 🎓 (grade 1.3)
+- Mechanical Engineering @ Karlsruhe Institut of Technology KIT. 🎓 (grade 1.2)
 - Masterthesis: (grade 1.0) "Automated Taxonomic Classification and Temporal Change Detection Using Vision Foundation Models"
 - Looking for opportunities and collaborations in the field of data analysis. ✅ 
 - Programming + Engineering = ❤️
